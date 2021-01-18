@@ -61,7 +61,7 @@ Run Elasticsearch server (if you haven't run it as cluster already)
 #### 2) Downloading project source code
 
 ```
-git clone https://github.com/orangeGoran/elastic-api.git
+git clone https://github.com/VakeDomen/ElasticsearchProject.git
 cd elastic-api
 npm install
 ```
@@ -173,10 +173,3 @@ GENERATE_MORE_POSTS=500
 -   [More of docker](https://medium.com/@wkrzywiec/database-in-a-docker-container-how-to-start-and-whats-it-about-5e3ceea77e50)
 -   [Setup sequalize with postgress](https://dev.to/nedsoft/getting-started-with-sequelize-and-postgres-emp)
 
-## Authors
-
--   **Goran Tubic** - _Initial work_ - [orangeGoran](https://github.com/orangeGoran)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
